@@ -1,6 +1,6 @@
 {
 	"name": "css-reset-eg",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A bare-bones CSS reset for modern web development. Created by Andy Bell. Edited by Emil Gerz. /n What's new? - body now has 100 dynamic height view instead.",
 	"main": "./dist/reset.min.css",
 	"scripts": {
