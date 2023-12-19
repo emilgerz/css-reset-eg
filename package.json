@@ -1,0 +1,26 @@
+{
+	"name": "css-reset-eg",
+	"version": "1.0.0",
+	"description": "A bare-bones CSS reset for modern web development. Created by Andy Bell. Edited by Emil Gerz. /n What's new? - body now has 100 dynamic height view instead.",
+	"main": "./dist/reset.min.css",
+	"scripts": {
+		"build": "uglifycss src/reset.css > dist/reset.min.css && cp src/reset.css dist/reset.css"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hankchizljaw/modern-css-reset.git"
+	},
+	"keywords": [
+		"css reset",
+		"modern css reset"
+	],
+	"author": "Emil Gerz (https://t.me/emilgerz)",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/hankchizljaw/modern-css-reset/issues"
+	},
+	"homepage": "https://github.com/hankchizljaw/modern-css-reset#readme",
+	"devDependencies": {
+		"uglifycss": "0.0.29"
+	}
+}
