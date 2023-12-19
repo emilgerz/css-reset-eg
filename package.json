@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/hankchizljaw/modern-css-reset.git"
+		"url": "git+https://github.com/emilgerz/css-reset-eg.git"
 	},
 	"keywords": [
 		"css reset",
@@ -17,9 +17,9 @@
 	"author": "Emil Gerz (https://t.me/emilgerz)",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/hankchizljaw/modern-css-reset/issues"
+		"url": "https://github.com/emilgerz/css-reset-eg/issues"
 	},
-	"homepage": "https://github.com/hankchizljaw/modern-css-reset#readme",
+	"homepage": "https://github.com/emilgerz/css-reset-eg#readme",
 	"devDependencies": {
 		"uglifycss": "0.0.29"
 	}
