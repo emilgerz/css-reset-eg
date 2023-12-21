@@ -1,6 +1,8 @@
 # A modern CSS reset, modified by Emil Gerz
 
-A tiny little reset that you can use as the basis of your CSS projects. You can read a [breakdown of it here](https://hankchizljaw.com/wrote/a-modern-css-reset/).
+A tiny little reset that you can use as the basis of your CSS projects. You can read a [breakdown of it here](https://hankchizljaw.com/wrote/a-modern-css-reset/). 
+
+I modified original modern-css-reset – now body element has 100dvh instead 100vh
 
 ## Installation
 
