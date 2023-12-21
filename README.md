@@ -23,4 +23,4 @@ Body element now has 100dvh instead 100vh
 
 ## License
 
-MIT
+ISC
